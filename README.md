@@ -1,4 +1,7 @@
-# ncnn-android-yolov8
+# ncnn-android-yolov8n-smile-detector
+基于yolov8n定制的笑脸检测模型，能检测两类脸部表情（笑脸与非笑脸。）支持动态输入尺寸。
+320x320输入尺寸下，在50cm以内有较理想的检测和分类精度。
+可通过适当提高输入尺寸，提升分类精度。
 
 The yolov8 object detection
 
